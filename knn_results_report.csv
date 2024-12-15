@@ -1,0 +1,8 @@
+Best results of k-NN obtained by:,k = 29,Similarity metric: Cosine Similarity
+Metric,Class 1,Class 2,Class 3,MACRO Average,MICRO Average
+Precision,0.5780,0.5007,0.5030,0.5272,0.5435
+Recall,0.7366,0.3588,0.4484,0.5146,0.5435
+F1_score,0.6478,0.4180,0.4741,0.5133,0.5435
+True Positives,948,343,339,-,-
+False Positives,692,342,335,-,-
+False Negatives,339,613,417,-,-
